@@ -26,5 +26,5 @@ export default defineConfig({
       },
     },
   },
-  base: '/ouyanghui100.github.io/',
+  base: '/',
 });
